@@ -25,6 +25,7 @@ Step 2. Add the dependency
 
 step 3. go to [DEMO](https://github.com/jiang111/IndexRecyclerView/blob/master/app/src/main/java/com/jiang/android/indexrecyclerview/adapter/ContactAdapter.java) 
 
+### no use just test
 
 ### art:
 
